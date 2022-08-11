@@ -5,12 +5,13 @@
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-s5hn{font-family:Verdana, Geneva, sans-serif !important;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-1wig"></th>
+    <th class="tg-s5hn"></th>
     <th class="tg-1wig">SeekOut</th>
     <th class="tg-1wig">AmazingHiring</th>
     <th class="tg-1wig">HeroHunt.ai</th>
@@ -68,7 +69,7 @@
   <tr>
     <td class="tg-1wig">GDPR proof</td>
     <td class="tg-0lax">No, USA based, database storage</td>
-    <td class="tg-0lax">No, Usa based, database storage</td>
+    <td class="tg-0lax">No, USA based, database storage</td>
     <td class="tg-0lax">Yes, real-time public data</td>
   </tr>
   <tr>
