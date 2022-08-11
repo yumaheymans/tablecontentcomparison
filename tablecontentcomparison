@@ -1,0 +1,87 @@
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig"></th>
+    <th class="tg-1wig">SeekOut</th>
+    <th class="tg-1wig">AmazingHiring</th>
+    <th class="tg-1wig">HeroHunt.ai</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1wig">Starting price (monthly)</td>
+    <td class="tg-0lax">€499 (based on market data)</td>
+    <td class="tg-0lax">€400 (based on market data)</td>
+    <td class="tg-0lax">€99 (actual price)</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Fee structure</td>
+    <td class="tg-0lax">Yearly</td>
+    <td class="tg-0lax">Yearly</td>
+    <td class="tg-0lax">Monthly and yearly</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Free trial</td>
+    <td class="tg-0lax">No</td>
+    <td class="tg-0lax">Only in some cases</td>
+    <td class="tg-0lax">Free trial, no creditcard needed</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Target market</td>
+    <td class="tg-0lax">Corporates</td>
+    <td class="tg-0lax">Medium and large tech companies</td>
+    <td class="tg-0lax">Medium and large companies</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Reach of engineers</td>
+    <td class="tg-0lax">29 million</td>
+    <td class="tg-0lax">Undisclosed</td>
+    <td class="tg-0lax">133 million</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Profile data freshness</td>
+    <td class="tg-0lax">Up to 3 - 9 months old </td>
+    <td class="tg-0lax">Up to 3 - 9 months old</td>
+    <td class="tg-0lax">Real-time, always up-to-date</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Data storage</td>
+    <td class="tg-0lax">Outsourced database</td>
+    <td class="tg-0lax">Outsourced database</td>
+    <td class="tg-0lax">Real-time search</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Required sourcing knowledge</td>
+    <td class="tg-0lax">- Know how to build complex Boolean strings<br>- Know how a database search works</td>
+    <td class="tg-0lax">- Know how to build complex Boolean strings<br>- Know how a database search works</td>
+    <td class="tg-0lax">No knowledge required</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">GDPR proof</td>
+    <td class="tg-0lax">No, USA based, database storage</td>
+    <td class="tg-0lax">No, Usa based, database storage</td>
+    <td class="tg-0lax">Yes, real-time public data</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Automation</td>
+    <td class="tg-0lax">Manual</td>
+    <td class="tg-0lax">Mostly manual</td>
+    <td class="tg-0lax">Mostly automated</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Contact details</td>
+    <td class="tg-0lax">Email addresses, not verified</td>
+    <td class="tg-0lax">Email addresses, not verified</td>
+    <td class="tg-0lax">Verified emails and social links</td>
+  </tr>
+</tbody>
+</table>
